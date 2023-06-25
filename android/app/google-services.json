@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522162510453",
+    "project_id": "crud-bde4d",
+    "storage_bucket": "crud-bde4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522162510453:android:e2b530129af97958d6f63c",
+        "android_client_info": {
+          "package_name": "com.crud.gerick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522162510453-nqeftesr5777642l03rp4nicbpjok3of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAID_8rtr6aQ-mtWla7RxaFw88tbh0La6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522162510453-nqeftesr5777642l03rp4nicbpjok3of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
